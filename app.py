@@ -46,5 +46,5 @@ if st.button("Ανάλυση απάντησης"):
                 st.write(reply)
 
             except Exception as e:
-                st.error(f"Παρουσιάστηκε σφάλμα: {str(e)}")
+                st.error(f"Παρουσιάστηκε σφάλμα: {str(e)}") 
 
